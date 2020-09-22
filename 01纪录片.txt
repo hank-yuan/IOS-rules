@@ -1,0 +1,16 @@
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+﻿国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
+求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
+求索生活,http://125.210.152.18:9090/live/QSSH.m3u8
+求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
+求索动物,http://125.210.152.18:9090/live/QSDW.m3u8
+求索动物,http://125.210.152.18:9090/live/QSDW_1200.m3u8
+求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
+求索科学,http://125.210.152.18:9090/live/QSKX.m3u8
+求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#http://mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5101098146/150/index.m3u8?msisdn=A334E5EF08BF0C327BDFB0C8FA7C075A&mdspid=&spid=800033&netType=0&sid=5500387323&pid=2028597139×tamp=20200530074529&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=637483721&ParentNodeID=-99&assertID=5500387323&client_ip=183.131.179.11&SecurityKey=20200530074529&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=5b66aa11f301a078c1ed6bfb74fcb680#http://tv998.club/gz168.php?id=ts#http://106.54.30.243/gz009/gz.php?id=ts
+求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
