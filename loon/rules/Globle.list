@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # (Music)
 # > Spotify
