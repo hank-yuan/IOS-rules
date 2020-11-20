@@ -50,6 +50,12 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,www.google.
+USER-AGENT,%e4%ba%91%e7%ab%af%e7%a1%ac%e7%9b%98*
+USER-AGENT,*com.google.drive*
+USER-AGENT,google.drive*
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -109,6 +115,23 @@ IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
+# > Whatsapp
+DOMAIN-KEYWORD,whatsapp
+IP-CIDR,108.168.174.0/16,no-resolve
+IP-CIDR,158.85.224.160/27,no-resolve
+IP-CIDR,158.85.46.128/27,no-resolve
+IP-CIDR,158.85.5.192/27,no-resolve
+IP-CIDR,173.192.222.160/27,no-resolve
+IP-CIDR,173.192.231.32/27,no-resolve
+IP-CIDR,174.37.243.0/16,no-resolve
+IP-CIDR,18.194.0.0/15,no-resolve
+IP-CIDR,184.173.128.0/17,no-resolve
+IP-CIDR,208.43.122.128/27,no-resolve
+IP-CIDR,34.224.0.0/12,no-resolve
+IP-CIDR,50.22.198.204/30,no-resolve
+IP-CIDR,54.242.0.0/15,no-resolve
+IP-CIDR,69.171.235.0/16,no-resolve
+IP-CIDR,75.126.150.0/16,no-resolve
 # > Microsoft OneDrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -131,9 +154,17 @@ DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,boxun.com
+# > Github
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,raw.githubusercontent.com
+# > Instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagram.com
 
 # (Music)
 # > Spotify
@@ -148,3 +179,12 @@ DOMAIN-KEYWORD,-spotify-com
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 # (Video)
+
+# (Mail)
+DOMAIN,imap-mail.outlook.com
+DOMAIN,imap.gmail.com
+DOMAIN,outlook.office365.com
+DOMAIN,pop.gmail.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.gmail.com
+DOMAIN,smtp.office365.com
