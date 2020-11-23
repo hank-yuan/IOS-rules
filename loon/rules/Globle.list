@@ -141,19 +141,6 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,oneclient.sfx.ms
-# > Other
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,backchina.com
-DOMAIN-SUFFIX,dwnews.com
-DOMAIN-SUFFIX,creaders.net
-DOMAIN-SUFFIX,worldjournal.com
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,sinovision.net
-DOMAIN-SUFFIX,voachinese.com
-DOMAIN-SUFFIX,wsj.com
-DOMAIN-SUFFIX,reuters.com
-DOMAIN-SUFFIX,boxun.com
 # > Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -165,7 +152,6 @@ DOMAIN-SUFFIX,raw.githubusercontent.com
 # > Instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
-
 # (Music)
 # > Spotify
 USER-AGENT,Spotify*
@@ -188,3 +174,17 @@ DOMAIN,pop.gmail.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
+# > Other
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,backchina.com
+DOMAIN-SUFFIX,dwnews.com
+DOMAIN-KEYWORD,dwnews
+DOMAIN-SUFFIX,creaders.net
+DOMAIN-SUFFIX,worldjournal.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,sinovision.net
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,boxun.com
