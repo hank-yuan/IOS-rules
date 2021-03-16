@@ -1,4 +1,6 @@
 # Global.list
+# > apple
+DOMAIN,ocsp.apple.com
 # > Google
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,getoutline.org
@@ -17,6 +19,7 @@ DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,getmdl.io
@@ -53,9 +56,9 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,www.google.
-USER-AGENT,%e4%ba%91%e7%ab%af%e7%a1%ac%e7%9b%98*
-USER-AGENT,*com.google.drive*
-USER-AGENT,google.drive*
+USER-AGENT, %E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+USER-AGENT,Google.Drive*
+USER-AGENT,com.google.Drive*
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -223,6 +226,11 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,raw.githubusercontent.com
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 # > Instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
@@ -235,9 +243,21 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
-# > YouTubeMusic
+# > YouTube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
+USER-AGENT,*youtube*
+USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
+USER-AGENT,youtube*
+USER-AGENT,youtubemusic*
 # (Video)
 
 # (Mail)
@@ -248,6 +268,7 @@ DOMAIN,pop.gmail.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
+
 # > Other
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,duckduckgo.com

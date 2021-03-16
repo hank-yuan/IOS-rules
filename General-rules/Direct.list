@@ -34,6 +34,28 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+# Apple Music
+DOMAIN,aod.itunes.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,music.apple.com
+DOMAIN,mvod.itunes.apple.com
+# > App Store
+USER-AGENT,com.apple.appstored*
+PROCESS-NAME,storedownloadd
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+# > Update
+DOMAIN,supportdownload.apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,apptrailers.itunes.apple.com
 # > Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -182,6 +204,8 @@ DOMAIN,sms.imagetasks.com
 # DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN,speedtest.macpaw.com
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
 # > Private Tracker
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,animebytes.tv
