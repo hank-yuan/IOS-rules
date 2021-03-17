@@ -114,7 +114,7 @@ payload:
   -IP-CIDR,47.89.59.182/32,no-resolve
   -IP-CIDR,103.49.209.27/32,no-resolve
   -IP-CIDR,123.56.152.96/32,no-resolve
-# > ChinaTelecom
+  # > ChinaTelecom
   -IP-CIDR,61.160.200.223/32,no-resolve
   -IP-CIDR,61.160.200.242/32,no-resolve
   -IP-CIDR,61.160.200.252/32,no-resolve
@@ -530,7 +530,7 @@ payload:
   -DOMAIN,adse.wsa.ximalaya.com
   -DOMAIN,adse.ximalaya.com
   -DOMAIN,adsebs.ximalaya.com
-# > 小红书
+  # > 小红书
   -DOMAIN,ads-img-qc.xhscdn.com
   -DOMAIN,ads-video-qc.xhscdn.com
   -DOMAIN,t-ads.xiaohongshu.com
