@@ -1,9 +1,5 @@
 # China Area Network
-# > 360
-DOMAIN-SUFFIX,qhres.com
-DOMAIN-SUFFIX,qhimg.com
 # > Alibaba
-USER-AGENT,%E4%BC%98%E9%85%B7*
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
@@ -21,41 +17,6 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
-# > Apple
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,icloud.com.akadns.net
-IP-CIDR,17.0.0.0/8,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
-IP-CIDR,139.178.128.0/18,no-resolve
-IP-CIDR,144.178.0.0/19,no-resolve
-IP-CIDR,144.178.36.0/22,no-resolve
-# Apple Music
-DOMAIN,aod.itunes.apple.com
-DOMAIN,api.smoot.apple.cn
-DOMAIN,music.apple.com
-DOMAIN,mvod.itunes.apple.com
-# > App Store
-USER-AGENT,com.apple.appstored*
-PROCESS-NAME,storedownloadd
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,osxapps.itunes.apple.com
-# > Update
-DOMAIN,supportdownload.apple.com
-DOMAIN,appldnld.apple.com
-DOMAIN,swcdn.apple.com
-DOMAIN,apptrailers.itunes.apple.com
 # > Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -71,25 +32,10 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,hdslb.com
-# > ByteDance
-DOMAIN-SUFFIX,feiliao.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,toutiao.com
-# > CCTV
-DOMAIN-SUFFIX,cctv.com
-DOMAIN-SUFFIX,cctvpic.com
-DOMAIN-SUFFIX,livechina.com
 # > DiDi
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,udache.com
-# > ChinaTelecom
-DOMAIN-SUFFIX,21cn.com
-# > HunanTV
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,mgtv.com
 # > iQiyi
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
@@ -181,6 +127,8 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
+IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,182.254.116.0/24,no-resolve
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
@@ -374,10 +322,5 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
-
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
-
-# Tencent
-IP-CIDR,119.28.28.28/32,no-resolve
-IP-CIDR,182.254.116.0/24,no-resolve
