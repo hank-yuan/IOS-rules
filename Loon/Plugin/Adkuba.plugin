@@ -1,0 +1,18 @@
+/*  
+QX:
+[rewrite_local]
+#库八影视去广告
+^http:\/\/damiyingshi\.app\.bucuo\.online\/api\/login\/saveerrlog\/ url script-response-body kuba.js
+
+[mitm]
+hostname = damiyingshi.app.bucuo.online
+
+库八下载地址；
+http://www.cool8.site
+*/
+
+[Script]
+http-response ^http:\/\/damiyingshi\.app\.bucuo\.online\/api\/login\/saveerrlog\/requires-body=1,script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/Loon/Js/kuba.js,tag=库八影视去广告
+
+[MITM]
+hostname = *.damiyingshi.app.bucuo.online
