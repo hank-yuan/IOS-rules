@@ -1,0 +1,12 @@
+# 食用方法:
+# 首次运行脚本，会提示获取body
+# 进入闪挣，娱乐赚，看视频领金币，看视频金币转圈结束，提示成功获取数据即可
+
+[Script]
+cron "10 * * * *" script-path=https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣
+
+[rewrite]
+^https://api-9f9d25.sz365.cn/api/virtual_currency_v2/reward script-path=https://raw.githubusercontent.com/age174/-/main/sz.js, requires-header=true, timeout=10, tag=闪挣
+
+[MITM]
+hostname = api-9f9d25.sz365.cn
