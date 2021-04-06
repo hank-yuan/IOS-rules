@@ -100,15 +100,6 @@ payload:
   - DOMAIN-SUFFIX,miui.com
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,xiaomi.com
-  # > Microsoft
-  - DOMAIN-SUFFIX,azure.cn
-  - DOMAIN-SUFFIX,hotmail.com
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,sharepoint.com
   # > NetEase
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,126.net
@@ -130,19 +121,6 @@ payload:
   - DOMAIN-SUFFIX,sogo.com
   - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sogoucdn.com
-  # > Tencent
-  - DOMAIN-SUFFIX,gtimg.com
-  - DOMAIN-SUFFIX,idqqimg.com
-  - DOMAIN-SUFFIX,igamecj.com
-  - DOMAIN-SUFFIX,myapp.com
-  - DOMAIN-SUFFIX,myqcloud.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,qqmail.com
-  - DOMAIN-SUFFIX,servicewechat.com
-  - DOMAIN-SUFFIX,tencent.com
-  - DOMAIN-SUFFIX,tencent-cloud.net
-  - DOMAIN-SUFFIX,tenpay.com
-  - DOMAIN,file-igamecj.akamaized.net
   # > ulike
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,faceu.mobi
