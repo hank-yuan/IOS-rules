@@ -304,8 +304,10 @@ payload:
   - DOMAIN-SUFFIX,washingtonpost.com
   - DOMAIN-SUFFIX,wattpad.com
   - DOMAIN-SUFFIX,whoer.net
-  - DOMAIN-SUFFIX,wikimapia.org
+  - DOMAIN-SUFFIX,iimapia.org
   - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,zh.wikipedia.org
+  - DOMAIN-KEYWORD,wikipedia
   - DOMAIN-SUFFIX,wikiquote.org
   - DOMAIN-SUFFIX,wikiwand.com
   - DOMAIN-SUFFIX,winudf.com
