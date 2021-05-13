@@ -1,0 +1,9 @@
+#Varlens解锁PRO
+# 下载地址:https://apps.apple.com/cn/app/id1535205062
+
+[Script]
+http-response ^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ requires-body=1, script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/Loon/Js/2496.js, tag=2496
+http-response ^https:\/\/mid\.zineapi\.com\/@varlens\/api\/user\/info\/ requires-body=1, script-path= https://raw.githubusercontent.com/sngxpro/QuantumultX/master/s7aa.cn/Varlens.js, tag=Varlens
+
+[mitm]
+hostname = mid.zineapi.com
