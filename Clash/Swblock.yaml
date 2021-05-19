@@ -1,0 +1,13 @@
+# NAME: Adobe
+payload:
+  - DOMAIN,bettertouchtool.net
+  - DOMAIN,updates.bettertouchtool.net
+  - DOMAIN,folivora.ai
+  - DOMAIN,updates.boastr.net
+  - DOMAIN,updates.folivora.ai
+  - DOMAIN,www.folivora.ai
+  - DOMAIN,update.ergonis.com
+  - DOMAIN,www.scootersoftware.com
+  - DOMAIN,scootersoftware.com
+
+  - DOMAIN-KEYWORD,bettertouchtool
