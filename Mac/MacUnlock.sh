@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #! /bin/bash -c "$(curl -fsSL https://git.io/EmbyPremiereUnlock.sh)"
+#! /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/Mac/MacUnlock.sh)"
 
 if [[ `uname  -a` =~ "Darwin" ]];then
     echo -e "\033[33m开始检测是否已安装 Emby 客户端...\033[0m"
