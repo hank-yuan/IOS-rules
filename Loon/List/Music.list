@@ -2,3 +2,7 @@
 🎧𝐌𝐮𝐬𝐢𝐜𝟏 = http,106.52.127.72,19951
 🎧𝐌𝐮𝐬𝐢𝐜2 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_d39m"
 🎧𝐌𝐮𝐬𝐢𝐜3 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_d39m"
+🎧𝐌𝐮𝐬𝐢𝐜4 = http,os.dlj.tf,20000
+🎧𝐌𝐮𝐬𝐢𝐜5 = http,os.dlj.tf,30000
+🎧𝐌𝐮𝐬𝐢𝐜6 = music.lolico.me,39000
+🎧𝐌𝐮𝐬𝐢𝐜7 = block4music.poetyin.me,39000
