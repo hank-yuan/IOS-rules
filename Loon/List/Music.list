@@ -10,3 +10,11 @@
 🎧𝐌𝐮𝐬𝐢𝐜9 = http,block4music.poetyin.me,39000
 🎧𝐌𝐮𝐬𝐢𝐜10 = http,salvan.icu,19980
 🎧𝐌𝐮𝐬𝐢𝐜11 = http,1.116.214.16,19980
+🎧𝐌𝐮𝐬𝐢𝐜T16 = http,music.lolico.me,39000
+🎧𝐌𝐮𝐬𝐢𝐜12 = http,os.dlj.tf,20000
+🎧𝐌𝐮𝐬𝐢𝐜13 = http,os.dlj.tf,30000
+
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜14
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜15
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜16
+http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜17
