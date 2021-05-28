@@ -1,57 +1,57 @@
 # > 流媒体emby-nexitally服务器
-HOST,emby.nexitally.com
+host, emby.nexitally.com
 
 # > 流媒体emby-paoche服务器
-HOST,emby.cjpc.xyz
-HOST,emby.paoche.ooo
+host, emby.cjpc.xyz
+host, emby.paoche.ooo
 
 # > 流媒体emby-flowercloud服务器
-HOST,emby.flowercloud.yt
+host, emby.flowercloud.yt
 
 # > 流媒体emby-maying服务器
-HOST,emby.maying.club
+host, emby.maying.club
 
 # > 流媒体emby-mdss服务器
-HOST,emby.mdss.cloud
+host, emby.mdss.cloud
 
 # > 流媒体emby-ytoo服务器
-HOST,emby.ytoo.li
+host, emby.ytoo.li
 
 # > 流媒体emby-w8ves服务器
-HOST,embyserver.ga
+host, embyserver.ga
 
 # > 流媒体emby-prpr服务器
-HOST,emby.prprcloud.com
+host, emby.prprcloud.com
 
 # > 流媒体emby-nyancat服务器
-HOST,emby.nyancat.net
+host, emby.nyancat.net
 
 # > 流媒体emby-Plus体验服
-HOST,emby.plusmedia.site
-HOST,emby-cf.plusmedia.site 
-HOST,emby.xeton.dev
-HOST,jellyfin.xeton.dev
-HOST,movie.xeton.dev
-HOST,servers.xeton.dev
+host, emby.plusmedia.site
+host, emby-cf.plusmedia.site 
+host, emby.xeton.dev
+host, jellyfin.xeton.dev
+host, movie.xeton.dev
+host, servers.xeton.dev
 
 # > 流媒体emby-Otaku体验服
-HOST,emby.ok.edu.hk
-HOST,emby.neko.edu.rs 
-HOST,pub1.emby.wtf
-HOST,pub1cf.emby.wtf
-HOST,pub2.emby.wtf
-HOST,pub2cf.emby.wtf
-HOST,pub3.emby.wtf
-HOST,pub3cf.emby.wtf
+host, emby.ok.edu.hk
+host, emby.neko.edu.rs 
+host, pub1.emby.wtf
+host, pub1cf.emby.wtf
+host, pub2.emby.wtf
+host, pub2cf.emby.wtf
+host, pub3.emby.wtf
+host, pub3cf.emby.wtf
 
 # > 流媒体emby-jmsooo体验服
-HOST,agahk1.jmsooo.com
-HOST,agasg1.jmsooo.com
-HOST,agajp1.jmsooo.com
-HOST,aws.jmsooo.com
-HOST,ntt1.jmsooo.com
-HOST,hinet.jmsooo.com
-HOST,cf1.jmsooo.com
+host, agahk1.jmsooo.com
+host, agasg1.jmsooo.com
+host, agajp1.jmsooo.com
+host, aws.jmsooo.com
+host, ntt1.jmsooo.com
+host, hinet.jmsooo.com
+host, cf1.jmsooo.com
 
 # > 流媒体pornemby服务器
-HOST,aga.pornemby.club
+host, aga.pornemby.club
