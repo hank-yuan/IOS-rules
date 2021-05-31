@@ -1,2 +1,2 @@
 [Script]
-network-changed script-path=https://raw.githubusercontent.com/hank-yuan/rules/master/loon/js/auto-policy.js
+network-changed script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/Loon/Js/auto-policy.js
