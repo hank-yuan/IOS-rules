@@ -1,6 +1,0 @@
-# 屏蔽系统更新
-host, ns.itunes.apple.com, AppleUpdate
-host, appldnld.apple.com, AppleUpdate
-host, mesu.apple.com, AppleUpdate
-host, xp.apple.com, AppleUpdate
-host, gdmf.apple.com, AppleUpdate
