@@ -2,8 +2,9 @@
 DOMAIN,emby.nexitally.com
 
 # > 流媒体emby-paoche服务器
-DOMAIN,emby.cjpc.xyz
-DOMAIN,emby.paoche.ooo
+DOMAIN,emby.cjpc.cc
+DOMAIN,emby-aga.cjpc.cc
+DOMAIN,emby-hk.cjpc.cc
 
 # > 流媒体emby-flowercloud服务器
 DOMAIN,emby.flowercloud.yt
@@ -55,3 +56,10 @@ DOMAIN,cf1.jmsooo.com
 
 # > 流媒体pornemby服务器
 DOMAIN,aga.pornemby.club
+
+# > 流媒体IMM服务器
+DOMAIN,emby.immtel.com
+
+# > 流媒体Odyssey服务器
+DOMAIN,shogouki.youremby.gq
+DOMAIN,aga01.youremby.gq
