@@ -1,0 +1,65 @@
+# > 流媒体emby-nexitally服务器
+host, emby.nexitally.com, Outside
+
+# > 流媒体emby-paoche服务器
+host, emby.cjpc.cc, Outside
+host, emby-aga.cjpc.cc, Outside
+host, emby-hk.cjpc.cc, Outside
+
+# > 流媒体emby-flowercloud服务器
+host, emby.flowercloud.yt, Outside
+
+# > 流媒体emby-maying服务器
+host, emby.maying.club, Outside
+
+# > 流媒体emby-mdss服务器
+host, emby.mdss.cloud, Outside
+
+# > 流媒体emby-ytoo服务器
+host, emby.ytoo.li, Outside
+
+# > 流媒体emby-w8ves服务器
+host, embyserver.ga, Outside
+
+# > 流媒体emby-prpr服务器
+host, emby.prprcloud.com, Outside
+
+# > 流媒体emby-nyancat服务器
+host, emby.nyancat.net, Outside
+
+# > 流媒体emby-Plus体验服
+host, emby.plusmedia.site, Outside
+host, emby-cf.plusmedia.site, Outside
+host, emby.xeton.dev, Outside
+host, jellyfin.xeton.dev, Outside
+host, movie.xeton.dev, Outside
+host, servers.xeton.dev, Outside
+
+# > 流媒体emby-Otaku体验服
+host, emby.ok.edu.hk, Outside
+host, emby.neko.edu.rs, Outside
+host, pub1.emby.wtf, Outside
+host, pub1cf.emby.wtf, Outside
+host, pub2.emby.wtf, Outside
+host, pub2cf.emby.wtf, Outside
+host, pub3.emby.wtf
+host, pub3cf.emby.wtf, Outside
+
+# > 流媒体emby-jmsooo体验服
+host, agahk1.jmsooo.com, Outside
+host, agasg1.jmsooo.com, Outside
+host, agajp1.jmsooo.com, Outside
+host, aws.jmsooo.com, Outside
+host, ntt1.jmsooo.com, Outside
+host, hinet.jmsooo.com, Outside
+host, cf1.jmsooo.com, Outside
+
+# > 流媒体pornemby服务器
+host, aga.pornemby.club, Outside
+
+# > 流媒体IMM服务器
+host, emby.immtel.com, Outside
+
+# > 流媒体Odyssey服务器
+host, shogouki.youremby.gq, Outside
+host, aga01.youremby.gq, Outside
