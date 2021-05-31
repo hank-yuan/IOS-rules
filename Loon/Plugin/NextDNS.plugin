@@ -1,0 +1,8 @@
+# https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/NextDNS/NextDNS.sgmodule
+#!name=生成NextDNS模块
+#!desc=https://next.dns
+
+[Script]
+http-request https:\/\/next\.dns,script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/NextDNS/gen-module.js
+[MITM]
+hostname=%APPEND% next.dns
