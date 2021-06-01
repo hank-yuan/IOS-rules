@@ -1,0 +1,6 @@
+# 绕过企业证书过期
+domain, ocsp.apple.com
+# 避免迅雷版权问题
+domain, hub5idx.v6.shub.sandai.net
+domain, hub5emu.v6.shub.sandai.net
+domain, hub5btmain.v6.shub.sandai.net
