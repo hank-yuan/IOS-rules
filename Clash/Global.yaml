@@ -9,12 +9,14 @@ payload:
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,xboxlive.com
   # > News
-  - DOMAIN-KEYWORD,backchina
-  - DOMAIN-KEYWORD,dwnews
-  - DOMAIN-KEYWORD,voachinaese
-  - DOMAIN-KEYWORD,bbc
-  - DOMAIN-KEYWORD,creaders
+  - DOMAIN-SUFFIX,backchina.com
+  - DOMAIN-SUFFIX,dwnews.com
+  - DOMAIN-SUFFIX,voachinaese.com
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,creaders.net
   - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,worldjournal.com
   # > Line
