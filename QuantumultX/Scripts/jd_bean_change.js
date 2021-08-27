@@ -4,6 +4,7 @@ Modified time: 2021-06-09 15:25:41
 统计昨日京豆的变化情况，包括收入，支出，以及显示当前京豆数量,目前小问题:下单使用京豆后,退款重新购买,计算统计会出现异常
 统计红包以及过期红包
 网页查看地址 : https://bean.m.jd.com/beanDetail/index.action?resourceValue=bean
+原始地址：https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_bean_change.js
 支持京东双账号
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 ================Shell================
