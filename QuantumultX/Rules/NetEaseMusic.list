@@ -1,5 +1,5 @@
 # Netease Music
-host,api.iplay.163.com,NetEaseMusic
+#host,api.iplay.163.com,NetEaseMusic
 host,apm3.music.163.com
 host,apm.music.163.com
 host,interface3.music.163.com
