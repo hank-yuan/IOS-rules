@@ -4,3 +4,9 @@ domain, ocsp.apple.com
 domain, hub5idx.v6.shub.sandai.net
 domain, hub5emu.v6.shub.sandai.net
 domain, hub5btmain.v6.shub.sandai.net
+
+# Netease Music Advertising
+domain,admusicpic.music.126.net
+domain,iadmat.nosdn.127.net,reject
+domain,iadmusicmat.music.126.net
+domain,iadmusicmatvideo.music.126.net
