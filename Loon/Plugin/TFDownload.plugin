@@ -1,0 +1,11 @@
+# Testflight 解除区域限制
+[Script]
+http-request ^https?:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*/builds/\d*/install ,requires-body=true, timeout=10, tag=TTestflight解除区域限制,script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/TF_Download.js,enabled=true
+
+[MITM]
+hostname = testflight.apple.com
+
+
+
+
+
