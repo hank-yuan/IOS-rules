@@ -1,7 +1,0 @@
-[URL Rewrite]
-
-# AbemaTV - api.abema.io
-^(http|https):\/\/api\.abema\.io\/v\d\/ip\/check - reject
-
-[MITM]
-hostname = api.abema.io
