@@ -5,8 +5,8 @@ host, hub5idx.v6.shub.sandai.net, reject
 host, hub5emu.v6.shub.sandai.net, reject
 host, hub5btmain.v6.shub.sandai.net, reject
 # Netease Music Advertising
-host,admusicpic.music.126.net, reject
-host,iadmat.nosdn.127.net, reject
-host,iadmusicmat.music.126.net, reject
-host,iadmusicmatvideo.music.126.net, reject
+host, admusicpic.music.126.net, reject
+host, iadmat.nosdn.127.net, reject
+host, iadmusicmat.music.126.net, reject
+host, iadmusicmatvideo.music.126.net, reject
 host, ossgw.alicdn.com, reject
