@@ -1,6 +1,8 @@
 #去开屏广告
 
 [URL Rewrite]
+# > 17 东方财富去开屏广告
+^https?:\/\/emdcadvertise\.eastmoney\.com\/infoService\/v2 - reject
 # > 16 网易云音乐开屏广告
 ^https?:\/\/crash\.163\.com\/client\/api\/uploadStartUpInfo\.do - reject
 # > 15 工商银行开屏广告
@@ -35,4 +37,4 @@ https://ad.12306.cn/* - reject
 https://homefront.qunar.com/front/splash/ad - reject
 
 [MITM]
-hostname = v.icbc.com.cn, wmapi.meituan.com, appconf.mail.163.com, homefront.qunar.com, ad.12306.cn, zone.guiderank-app.com,api.m.jd.com, fbchina.flipchina.cn, dl-cu-hz.lechange.cn, *.bdstatic.com, rich.kuwo.cn,m.ctrip.com, business.msstatic.com, ms.jr.jd.com, crash.163.com
+hostname = v.icbc.com.cn, wmapi.meituan.com, appconf.mail.163.com, homefront.qunar.com, ad.12306.cn, zone.guiderank-app.com,api.m.jd.com, fbchina.flipchina.cn, dl-cu-hz.lechange.cn, *.bdstatic.com, rich.kuwo.cn,m.ctrip.com, business.msstatic.com, ms.jr.jd.com, crash.163.com, emdcadvertise.eastmoney.com
