@@ -67,8 +67,6 @@ function test() {
     })
 }
 
-
-
 function getRegion(data) {
     let region = "";
 
