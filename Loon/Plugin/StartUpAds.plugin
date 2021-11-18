@@ -34,7 +34,7 @@ https:\/\/appconf\.mail\.163\.com\/mmad\/get\.do - reject
 https://dl-cu-hz.lechange.cn/oms-online/advertisementPush/* - reject
 
 # > 06 京东开屏广告
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
+#^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
 
 # > 05 红版报开屏广告
 https://fbchina.flipchina.cn/v2/ad/query/* - reject
