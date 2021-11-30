@@ -4,3 +4,5 @@ http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬
 shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜2
 # for ios
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜3
+# 自建节点
+shadowsocks=yhl.jiayuanoo7.top:8087, method=aes-128-gcm, password=www.jiayuanoo7.top, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜4
