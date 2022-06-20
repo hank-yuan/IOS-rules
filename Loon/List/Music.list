@@ -1,6 +1,4 @@
 # > 163music for loon
 
-🎧𝐌𝐮𝐬𝐢𝐜1 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_d39m"
-🎧𝐌𝐮𝐬𝐢𝐜2 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_d39m"
-🎧𝐌𝐮𝐬𝐢𝐜3 = Shadowsocks,www.jiayuanoo7.top,8087,aes-128-gcm,"www.jiayuanoo7.top"
-🎧𝐌𝐮𝐬𝐢𝐜4 = Shadowsocks,yhl.jiayuanoo7.top,8087,aes-128-gcm,"www.jiayuanoo7.top"
+🎧𝐌𝐮𝐬𝐢𝐜1 = Shadowsocks,www.jiayuanoo7.top,8087,aes-128-gcm,"www.jiayuanoo7.top"
+#🎧𝐌𝐮𝐬𝐢𝐜2 = Shadowsocks,yhl.jiayuanoo7.top,8087,aes-128-gcm,"www.jiayuanoo7.top"
