@@ -1,4 +1,8 @@
 # > 163music
+# shadowsocks=yhl.jiayuanoo7.top:8087, method=aes-128-gcm, password=www.jiayuanoo7.top, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜
+# for ios
 shadowsocks=www.jiayuanoo7.top:8087, method=aes-128-gcm, password=www.jiayuanoo7.top, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜1
-# shadowsocks=yhl.jiayuanoo7.top:8087, method=aes-128-gcm, password=www.jiayuanoo7.top, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜2
-
+# for ios,ipados
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜2
+# for macos,android,windows
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜3
