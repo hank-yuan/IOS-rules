@@ -13,3 +13,5 @@ domain, ossgw.alicdn.com
 # 东方财富去广告
 domain, zqhd.18.cn
 domain, emdcadvertise.eastmoney.com
+# backchina去广告
+domain-suffix, taboola.com
