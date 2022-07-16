@@ -1,5 +1,0 @@
-[Script]
-http-response ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ requires-body=1, script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js, tag=PlaneVPN
-
-[MITM]
-hostname = buy.itunes.apple.com
