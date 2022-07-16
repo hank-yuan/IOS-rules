@@ -50,11 +50,3 @@ host, analytics.strava.com
 # > Umeng
 host, msg.umeng.com
 host, msg.umengcloud.com
-
-# > MoonFM
-host-suffix, cdn.danlirencomedy.com
-host-suffix, moon.fm
-host-suffix, backend.moon.fm
-host-suffix , dl.wavpub.com
-host-suffix, feeds.danlirencomedy.com
-host-suffix, o481949.ingest.sentry.io
