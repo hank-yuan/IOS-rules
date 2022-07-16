@@ -4,6 +4,3 @@ host, ocsp.apple.com, reject
 host, hub5idx.v6.shub.sandai.net, reject
 host, hub5emu.v6.shub.sandai.net, reject
 host, hub5btmain.v6.shub.sandai.net, reject
-# 东方财富去广告
-host, zqhd.18.cn, reject
-host, emdcadvertise.eastmoney.com, reject
