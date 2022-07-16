@@ -54,7 +54,7 @@ host, msg.umengcloud.com
 # > MoonFM
 host-suffix, cdn.danlirencomedy.com
 host-suffix, moon.fm
-host, backend.moon.fm
-host, dl.wavpub.com
-host, feeds.danlirencomedy.com
-host, o481949.ingest.sentry.io
+host-suffix, backend.moon.fm
+host-suffix , dl.wavpub.com
+host-suffix, feeds.danlirencomedy.com
+host-suffix, o481949.ingest.sentry.io
