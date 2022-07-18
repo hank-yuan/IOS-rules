@@ -15,6 +15,3 @@ host-suffix, dsxys.com, Outside
 host-suffix, macwk.com, direct
 # > 加密货币补充
 host-suffix, ouyi.fit, Cryptocurrency
-# 其他
-host-suffix, applvn.com, reject
-host-suffix, applovin.com, reject
