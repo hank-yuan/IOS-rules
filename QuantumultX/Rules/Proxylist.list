@@ -1,0 +1,20 @@
+# > 经常访问的网站
+host-suffix, creaders.net, Outside
+host-suffix, backchina.com, Outside
+host-suffix, rfi.fr, Outside
+host-suffix, bbc.com, Outside
+host-suffix, wikiwand.com, Outside
+host-suffix, v2raytech.com, Outside
+host-suffix, xvideos.com, Outside
+host-suffix, jinkela.wtf, Outside
+host-suffix, netlify.app, proxy
+host-keyword, textfree, proxy
+# 大师兄影视
+host-suffix, dsxys.com, Outside
+# macwk
+host-suffix, macwk.com, direct
+# > 加密货币补充
+host-suffix, ouyi.fit, Cryptocurrency
+# 其他
+host-suffix, applvn.com, reject
+host-suffix, applovin.com, reject
