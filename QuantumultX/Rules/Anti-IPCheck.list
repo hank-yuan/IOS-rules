@@ -1,15 +1,15 @@
 # NAME: Anti-IPCheck
 
-host-suffix, biliapi.net
-host, api.bilibili.com 
-host, api.bilibili.tv
-host, app.bilibili.com
-host-suffix, biliapi.com
-host, api.live.bilibili.com
-host, api.vc.bilibili.com
-host, passport.bilibili.com
-host, live-trace.bilibili.com
-host, message.bilibili.com
+host-suffix, biliapi.net, Hong Kong
+host, api.bilibili.com, Hong Kong
+host, api.bilibili.tv, Hong Kong
+host, app.bilibili.com, Hong Kong
+host-suffix, biliapi.com, Hong Kong
+host, api.live.bilibili.com, Hong Kong
+host, api.vc.bilibili.com, Hong Kong
+host, passport.bilibili.com, Hong Kong
+host, live-trace.bilibili.com, Hong Kong
+host, message.bilibili.com, Hong Kong
 host, cm.bilibili.com
 
 # ======= 微博 ======= #
