@@ -1,10 +1,10 @@
 # NAME: Anti-IPCheck
 
-HOST-SUFFIX,biliapi.net
+host-suffix,biliapi.net
 HOST,api.bilibili.com 
 HOST,api.bilibili.tv
 HOST,app.bilibili.com
-HOST-SUFFIX,biliapi.com
+host-suffix,biliapi.com
 HOST,api.live.bilibili.com
 HOST,api.vc.bilibili.com
 HOST,passport.bilibili.com
