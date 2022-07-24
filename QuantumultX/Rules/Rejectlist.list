@@ -7,3 +7,6 @@ host, hub5btmain.v6.shub.sandai.net, reject
 # 其他
 host-suffix, applvn.com, reject
 host-suffix, applovin.com, reject
+# 大全图文识别去广告
+host-suffix, pglstatp-toutiao.com, reject
+host, sf3-fe-tos.pglstatp-toutiao.com, reject
