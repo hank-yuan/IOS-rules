@@ -1,0 +1,49 @@
+# NAME: Anti-IPCheck
+
+HOST-SUFFIX,biliapi.net
+HOST,api.bilibili.com 
+HOST,api.bilibili.tv
+HOST,app.bilibili.com
+HOST-SUFFIX,biliapi.com
+HOST,api.live.bilibili.com
+HOST,api.vc.bilibili.com
+HOST,passport.bilibili.com
+HOST,live-trace.bilibili.com
+HOST,message.bilibili.com
+HOST,cm.bilibili.com
+
+# ======= 微博 ======= #
+HOST,api.weibo.cn
+HOST,api.weibo.com
+
+# ======= 百度贴吧 ======= #
+HOST,tieba.baidu.com
+HOST,tbmsg.baidu.com
+HOST,tb5.bdstatic.com
+HOST,fclog.baidu.com
+HOST,gsp0.baidu.com
+HOST,hm.baidu.com
+HOST,www.baidu.com
+ 
+# ======= 微信 ======= #
+HOST,szshort.weixin.qq.com
+HOST,szextshort.weixin.qq.com
+HOST,szminorshort.weixin.qq.com
+HOST,mp.weixin.qq.com
+
+# ======= 知乎 ======= #
+HOST-SUFFIX,zhihu.com
+IP-CIDR,103.41.167.0/24
+
+# ======= 抖音 ======= #
+# 请求域名过多，建议全局代理
+HOST-KEYWORD,core-c-lq
+HOST-KEYWORD,core-lq
+HOST-KEYWORD,normal-c-lq
+HOST-KEYWORD,normal-lq
+HOST-KEYWORD,search-quic-lq
+HOST-KEYWORD,search-lq
+
+# ======= 头条 ======= #
+# 网友提供头条IP定位接口
+HOST-SUFFIX,toutiaoapi.com
