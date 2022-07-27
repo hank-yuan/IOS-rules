@@ -5,7 +5,7 @@
 ^https?:\/\/images\.pinduoduo\.com\/marketing_api\/\w+\.(png|gif|mp4) url reject
 
 # > 18 华尔街见闻
-^https?:\/\/api-one\.wallstcn\.com\/apiv1\/advertising\/ads\?.*$ url reject
+^https?:\/\/api-one-wscn\.awtmt\.com\/apiv1\/advertising\/ads\?.*$ url reject
 
 # > 17 金十数据去除开屏广告和应用内弹窗@kyle
 ^https?:\/\/jad-api\.jin10\.com\/ad url reject
@@ -59,4 +59,4 @@ https://ad.12306.cn/* - reject
 https://homefront.qunar.com/front/splash/ad - reject
 
 [MITM]
-hostname = images.pinduoduo.com, api-one.wallstcn.com, jad-api.jin10.com, crash.163.com, v.icbc.com.cn, ms.jr.jd.com, wmapi.meituan.com, appconf.mail.163.com, m.ctrip.com, business.msstatic.com, *.bdstatic.com, rich.kuwo.cn, dl-cu-hz.lechange.cn, fbchina.flipchina.cn, api.m.jd.com, zone.guiderank-app.com, ad.12306.cn, homefront.qunar.com
+hostname = images.pinduoduo.com, api-one-wscn.awtmt.com, jad-api.jin10.com, crash.163.com, v.icbc.com.cn, ms.jr.jd.com, wmapi.meituan.com, appconf.mail.163.com, m.ctrip.com, business.msstatic.com, *.bdstatic.com, rich.kuwo.cn, dl-cu-hz.lechange.cn, fbchina.flipchina.cn, api.m.jd.com, zone.guiderank-app.com, ad.12306.cn, homefront.qunar.com
