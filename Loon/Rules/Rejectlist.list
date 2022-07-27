@@ -15,3 +15,6 @@ domain, zqhd.18.cn
 domain, emdcadvertise.eastmoney.com
 # backchina去广告
 domain-suffix, taboola.com
+# 大全图文识别去广告
+domain-suffix, pglstatp-toutiao.com, reject
+domain, sf3-fe-tos.pglstatp-toutiao.com, reject
