@@ -1,20 +1,23 @@
 # 绕过企业证书过期
-domain, ocsp.apple.com
+domain, ocsp.apple.com, reject
 # 避免迅雷版权问题
-domain, hub5idx.v6.shub.sandai.net
-domain, hub5emu.v6.shub.sandai.net
-domain, hub5btmain.v6.shub.sandai.net
+domain, hub5idx.v6.shub.sandai.net, reject
+domain, hub5emu.v6.shub.sandai.net, reject
+domain, hub5btmain.v6.shub.sandai.net, reject
 # Netease Music Advertising
-domain, admusicpic.music.126.net
-domain, iadmat.nosdn.127.net,reject
-domain, iadmusicmat.music.126.net
-domain, iadmusicmatvideo.music.126.net
-domain, ossgw.alicdn.com
+domain, admusicpic.music.126.net, reject
+domain, iadmat.nosdn.127.net, reject
+domain, iadmusicmat.music.126.net, reject
+domain, iadmusicmatvideo.music.126.net, reject
+domain, ossgw.alicdn.com, reject
 # 东方财富去广告
-domain, zqhd.18.cn
-domain, emdcadvertise.eastmoney.com
+domain, zqhd.18.cn, reject
+domain, emdcadvertise.eastmoney.com, reject
+# 广告公司
+domain-suffix, applvn.com, reject
+domain-suffix, applovin.com, reject
 # backchina去广告
-domain-suffix, taboola.com
+domain-suffix, taboola.com, reject
 # 大全图文识别去广告
 domain-suffix, pglstatp-toutiao.com, reject
 domain, sf3-fe-tos.pglstatp-toutiao.com, reject
