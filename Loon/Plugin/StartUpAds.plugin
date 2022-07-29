@@ -1,6 +1,9 @@
 #去开屏广告
 
 [URL Rewrite]
+
+# > 28 彩云天气
+
 # > 27 大全图文识别
 ^https?:\/\/images\.pinduoduo\.com\/marketing_api\/\w+\.(png|gif|mp4) url reject
 
