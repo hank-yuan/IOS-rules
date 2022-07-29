@@ -18,6 +18,7 @@ domain-suffix, applvn.com, reject
 domain-suffix, applovin.com, reject
 # backchina去广告
 domain-suffix, taboola.com, reject
-# 大全图文识别去广告
+# 头条去广告
 domain-suffix, pglstatp-toutiao.com, reject
 domain, sf3-fe-tos.pglstatp-toutiao.com, reject
+domain-suffix, pgdt.ugdtimg.com reject
