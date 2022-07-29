@@ -1,0 +1,5 @@
+[Script]
+^http?:\/\/ad\.caiyunapp\.com\/v1\/app\/review$ requires-body=1, script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/Caiyunad.js, tag=彩云天气去广告
+
+[MITM]
+hostname = ad.caiyunapp.com
