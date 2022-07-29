@@ -19,7 +19,4 @@ domain-suffix, applvn.com
 domain-suffix, applovin.com
 # backchina去广告
 domain-suffix, taboola.com
-# 头条去广告
-domain-suffix, pglstatp-toutiao.com
-domain, sf3-fe-tos.pglstatp-toutiao.com
-domain-suffix, pgdt.ugdtimg.com
+
