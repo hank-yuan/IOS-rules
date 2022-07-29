@@ -1,8 +1,14 @@
+# Netease Music Advertising
+domain, admusicpic.music.126.net, reject
+domain, iadmat.nosdn.127.net, reject
+domain, iadmusicmat.music.126.net, reject
+domain, iadmusicmatvideo.music.126.net, reject
+domain, ossgw.alicdn.com,reject
 # 绕过企业证书过期
-domain, ocsp.apple.com, reject
+domain, ocsp.apple.com,reject
 # 避免迅雷版权问题
 domain, hub5idx.v6.shub.sandai.net, reject
-domain, hub5emu.v6.shub.sandai.net, reject
+domain, hub5emu.v6.shub.sandai.net,r eject
 domain, hub5btmain.v6.shub.sandai.net, reject
 # 东方财富去广告
 domain, zqhd.18.cn, reject
