@@ -4,12 +4,6 @@ domain, ocsp.apple.com, reject
 domain, hub5idx.v6.shub.sandai.net, reject
 domain, hub5emu.v6.shub.sandai.net, reject
 domain, hub5btmain.v6.shub.sandai.net, reject
-# Netease Music Advertising
-domain, admusicpic.music.126.net, reject
-domain, iadmat.nosdn.127.net, reject
-domain, iadmusicmat.music.126.net, reject
-domain, iadmusicmatvideo.music.126.net, reject
-domain, ossgw.alicdn.com, reject
 # 东方财富去广告
 domain, zqhd.18.cn, reject
 domain, emdcadvertise.eastmoney.com, reject
