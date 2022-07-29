@@ -17,7 +17,7 @@ const path1 = '\/v1\/app\/review';
 let obj = JSON.parse(body);
 
 if (url.indexOf(path1) != -1) {
-	obj.data["type"] = 1;
+	obj.data["type"] = "1";
 	body = JSON.stringify(obj);  
  }
 
