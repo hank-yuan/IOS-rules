@@ -17,3 +17,5 @@ host-suffix, macwk.com, direct
 host-suffix, ouyi.fit, Cryptocurrency
 # > 临时航班追踪
 host-suffix, flightradar24.com, Outside
+# > 华邮
+host-suffix, washingtonpost.com, Outside
