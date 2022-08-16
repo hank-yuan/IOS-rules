@@ -345,7 +345,7 @@ payload:
   - DOMAIN-SUFFIX,apartmentratings.com
   - DOMAIN-SUFFIX,apartments.com
   - DOMAIN-SUFFIX,bankmobilevibe.com
-  - DOMAIN-SUFFIX,bing.com
+  # - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,booktopia.com.au
   - DOMAIN-SUFFIX,cccat.io
   - DOMAIN-SUFFIX,centauro.com.br
