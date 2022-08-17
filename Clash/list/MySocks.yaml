@@ -1,0 +1,8 @@
+proxies:
+ - name: "Mysocks"
+   type: socks5
+   server: 192.168.1.12
+   port: 12899
+   username: user
+   password: 123
+   skip-cert-verify: true
