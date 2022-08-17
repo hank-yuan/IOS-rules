@@ -1,7 +1,0 @@
-proxies:
- - name: "mymusic"
-   type: ss
-   server: www.jiayuanoo7.top
-   port: 8087
-   cipher: aes-128-gcm
-   password: www.jiayuanoo7.top
