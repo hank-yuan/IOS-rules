@@ -1,0 +1,5 @@
+[Script]
+http-response ^https:\/\/top-widgets-api\.xiaozujian\.com\/api\/app\/config\/userConfig requires-body=1, script-path=https://gitlab.com/ioshkj/quantumultx/-/raw/main/vipjs/widgets.js, tag=万能小组件恢复永久会员
+
+[MITM]
+hostname = top-widgets-api.xiaozujian.com
