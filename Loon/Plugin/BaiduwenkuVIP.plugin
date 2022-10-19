@@ -1,0 +1,5 @@
+[Script]
+http-response ^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/baidulibrary.js,tag=百度文库
+
+[MITM]
+hostname = appwk.baidu.com
