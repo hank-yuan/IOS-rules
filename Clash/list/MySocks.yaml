@@ -2,12 +2,5 @@ proxies:
  - name: "Mysocks"
    type: socks5
    server: 192.168.1.12
-   port: 12899
-   username: user
-   password: 123
-   skip-cert-verify: true
- - name: "Mysocks1"
-   type: socks5
-   server: 192.168.1.12
    port: 1080
    skip-cert-verify: true
