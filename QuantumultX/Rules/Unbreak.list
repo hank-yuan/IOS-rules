@@ -50,3 +50,12 @@ host, analytics.strava.com
 # > Umeng
 host, msg.umeng.com
 host, msg.umengcloud.com
+
+# > appstore
+host, p18-buy.itunes.apple.com, direct
+host, stats.gc.apple.com, direct
+host, p14-buy.itunes.apple.com, direct
+host, ocsp.apple.com, direct
+host, api.smoot.apple.com,direct
+HOST, apps.apple.com,direct
+HOST, itunes.apple.com,direct
