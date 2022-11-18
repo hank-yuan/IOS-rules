@@ -17,3 +17,5 @@ host-suffix,dsxys.com,Outside
 host-suffix,ouyi.fit,Cryptocurrency
 # > 华邮英文
 host-suffix,washingtonpost.com,Outside
+# > 华尔街日报
+host-suffix,wsj.com,Outside
