@@ -1,14 +1,27 @@
-# > 经常访问的网站
-domain-suffix,creaders.net
+# > 华邮英文
+domain-suffix,washingtonpost.com
+# > 华尔街日报
+domain-suffix,wsj.com
+# > News
 domain-suffix,backchina.com
-domain-suffix,rfi.fr
+domain-suffix,dwnews.com
+domain-suffix,voachinaese.com
+domain-suffix,bbc.com
 domain-suffix,bbc.co.uk
 domain-suffix,bbc.com
+domain-suffix,creaders.net
+domain-suffix,nytimes.com
+domain-suffix,rfi.fr
+domain-suffix,reuters.com
+domain-suffix,,worldjoural.com
 domain-suffix,wikiwand.com
-domain-suffix,v2raytech.com
+# > 其它
 domain-suffix,xvideos.com
+domain-suffix,v2raytech.com
 domain-suffix,jinkela.wtf
+domain-suffix,jinkela.bar
 domain-suffix,netlify.app
+domain-suffix,vultr.com
 # 大师兄影视
 domain-suffix,dsxys.com
 # > 加密货币补充
