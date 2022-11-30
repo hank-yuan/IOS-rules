@@ -4,7 +4,6 @@
 
 下载地址；http://mtw.so/6bZ0fl
 ********************************
-
 [rewrite_local]
 # Panda widget解锁会员
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontents.com/chxm1023/script/main/JB/pandavip.js
