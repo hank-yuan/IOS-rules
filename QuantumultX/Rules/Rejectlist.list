@@ -22,6 +22,7 @@ host, ads.nicovideo.jp, reject
 # ～ HDO
 DOMAIN-SUFFIX,applovin.com,REJECT
 DOMAIN-SUFFIX,applvn.com,REJECT
+host-suffix, doubleclick.net, reject
 ip-cidr, 203.107.63.154/32, reject
 
 # ～ 多多视频去开屏广告
