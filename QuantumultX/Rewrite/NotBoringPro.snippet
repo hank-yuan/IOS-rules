@@ -1,0 +1,15 @@
+// ==UserScript==
+// @ScriptName        Not Boring 四件套（天气、习惯、日历、时间）
+// @Author            Cuttlefish
+// @下载地址：https://apps.apple.com/cn/app/id531063436
+// @UpdateTime        2022-12-03
+// @Function          unlock pro
+// @ScriptTime        若脚本失效可抓取对应时间的旧版本应用
+// ==/UserScript==
+
+hostname = api-weather.andy.works, api.revenuecat.com
+
+# ～ Not Boring 四件套[天气、习惯、日历、时间] 解锁会员权限（2022-12-03）@ddgksf2013
+^https?:\/\/api-weather\.andy\.works\/v\d\/\w{13,18}$ url reject-dict
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/*) url script-echo-response https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/NotBoringProCrack.js
+
