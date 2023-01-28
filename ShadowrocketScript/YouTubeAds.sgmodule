@@ -3,9 +3,8 @@
 #!desc=YouTube 去广告
 
 [URL Rewrite]
-
 ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) - reject-200
-#新版YouTube去广告
+#小火箭新版YouTube去广告
 ctier=[A-Z] ctier=A 302
 
 [MITM]
