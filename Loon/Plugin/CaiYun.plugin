@@ -1,3 +1,8 @@
+#!name=彩云天气SVIP
+#!desc=彩云天气会员解锁
+#!author=No
+#!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/caiyun.png
+
 [Script]
 http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user) requires-body=1, script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/CaiYun.js, tag=彩云天气SVIP
 
