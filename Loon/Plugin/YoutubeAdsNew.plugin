@@ -1,0 +1,20 @@
+#!name=去除 Youtube 广告 
+#!desc=去除 Youtube 广告
+#!author=Maasea
+#!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/YouTube.png
+
+[URL Rewrite]
+# ======= 视频广告请求 ======= #
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) url 302 $1$2$3
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject-img
+# ======= 通用广告请求 ======= #
+^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject-img
+^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject-img
+^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext - reject-img
+
+[Script]
+# ======= 视频PIP|后台播放|瀑布流|搜索|播放页|短视频|贴片广告  ======= #
+http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting) requires-body=1, script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.js, tag=Youtube
+
+[MITM]
+hostname = -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com
