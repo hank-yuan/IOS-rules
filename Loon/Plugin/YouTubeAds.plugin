@@ -3,13 +3,11 @@
 #!author=Choler DivineEngine app2smile ddgksf2013 Maasea
 #!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/YouTube.png
 
-[Rewrite]
-# 使用reject-img减少开销
-^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad reject-img
+[URL Rewrite]
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad reject-array
 
 [Script]
-# 该插件已足够全面，无需其他规则混用，防止复写规则被破坏。
-http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting)\? script-path=https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Resource/Script/YouTube/YouTube_remove_ads.js, requires-body=true, binary-body-mode=true, tag=YouTube去视频贴片广告, img-url=https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/80px/YouTube.png
+http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting)\? script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.js, requires-body=true, binary-body-mode=true, tag=YouTube去视频贴片广告, img-url=https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/80px/YouTube.png
 
 [MITM]
 hostname = *.googlevideo.com, youtubei.googleapis.com
