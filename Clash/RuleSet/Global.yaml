@@ -1,13 +1,21 @@
 payload:
   # Global.list
   # (DNS Cache Pollution Protection)
-  # > PayPal
-  - DOMAIN-KEYWORD,paypal,paypal
-  - DOMAIN-SUFFIX,paypal.com
-  - DOMAIN-SUFFIX,paypalobjects.com
-  # > Microsoft
-  - DOMAIN-SUFFIX,onedrive.live.com
-  - DOMAIN-SUFFIX,xboxlive.com
+  # > 自定义
+  - DOMAIN,translate.googleapis.com
+  - DOMAIN-SUFFIX,netlify.com
+  - DOMAIN-SUFFIX,packagecontrol.io
+  - DOMAIN-SUFFIX,cloudconvert.com
+  - DOMAIN-SUFFIX,vultr.com
+  - DOMAIN-SUFFIX,simplenote.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,sms-activate.org
+  - DOMAIN-SUFFIX,wikewand.com
+  - DOMAIN-SUFFIX,ivapp.cn
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,v2raytech.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,bridges.torproject.org
   # > News
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,dwnews.com
@@ -19,6 +27,13 @@ payload:
   - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,worldjournal.com
+  # > PayPal
+  - DOMAIN-KEYWORD,paypal,paypal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  # > Microsoft
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,xboxlive.com
   # > Line
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line-apps.com
