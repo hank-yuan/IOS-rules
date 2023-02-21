@@ -1,22 +1,13 @@
-# Netease Music Advertising
-domain, admusicpic.music.126.net
-domain, iadmat.nosdn.127.net
-domain, iadmusicmat.music.126.net
-domain, iadmusicmatvideo.music.126.net
-domain, ossgw.alicdn.com,reject
-
 # 绕过企业证书过期
 domain, ocsp.apple.com,reject
 # 避免迅雷版权问题
 domain, hub5idx.v6.shub.sandai.net
 domain, hub5emu.v6.shub.sandai.net,r eject
 domain, hub5btmain.v6.shub.sandai.net
-# 东方财富去广告
-domain, zqhd.18.cn
-domain, emdcadvertise.eastmoney.com
+
 # 广告公司
 domain-suffix, applvn.com
 domain-suffix, applovin.com
+
 # backchina去广告
 domain-suffix, taboola.com
-
