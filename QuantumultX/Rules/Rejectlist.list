@@ -1,34 +1,38 @@
-# 绕过企业证书过期
+# > 绕过企业证书过期
 host, ocsp.apple.com, reject
-# 避免迅雷版权问题
+
+# > 避免迅雷版权问题
 host, hub5idx.v6.shub.sandai.net, reject
 host, hub5emu.v6.shub.sandai.net, reject
 host, hub5btmain.v6.shub.sandai.net, reject
-# 广告公司
+
+# > 广告公司
 host-suffix, applvn.com, reject
 host-suffix, applovin.com, reject
-# backchina去广告
+
+# > backchina去广告
 host-suffix, taboola.com, reject
-# 大全图文识别去广告
+
+# > 大全图文识别去广告
 host-suffix, pglstatp-toutiao.com, reject
 host, sf3-fe-tos.pglstatp-toutiao.com, reject
-# ～ 真不卡
+
+# > 真不卡
 DOMAIN-SUFFIX, ttayy.cn, reject
 DOMAIN-SUFFIX, zhengxiaoliu.top, reject
 
-# ～ NicoNico
+# > NicoNico
 host, ads.nicovideo.jp, reject
 
-# ～ HDO
+# > HDO
 DOMAIN-SUFFIX,applovin.com,REJECT
 DOMAIN-SUFFIX,applvn.com,REJECT
 host-suffix, doubleclick.net, reject
 ip-cidr, 203.107.63.154/32, reject
 
-# ～ 多多视频去开屏广告
+# > 多多视频去开屏广告
 host-suffix, bayescom.com, reject
-# ～ 铁路12306
-host, ad.12306.cn, REJECT
 
-# ~ 高德
+
+# > 高德
 host, amdc.m.taobao.com, reject
