@@ -1,6 +1,6 @@
 #!name=去开屏广告
 #!desc=去除一些app开屏广告
-#!author=No
+#!author=hank-yuan
 #!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/Adblock.png
 
 [URL Rewrite]
