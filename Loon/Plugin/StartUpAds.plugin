@@ -14,9 +14,9 @@
 ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/.*\.php\/v\d\/top_notice\? - reject
 
 # > 21 555视频 vip7.fzwdyy.cn
-^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getAdvertInfo - reject-img
-^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getGOOGAdvert - reject-img
-^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic\/ - reject-img
+^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getAdvertInfo - reject-200
+^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getGOOGAdvert - reject-200
+^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic\/ - reject-200
 
 # > 20 大全图文识别 *.pinduoduo.com, *.pangolin-sdk-toutiao.com, snssdk.com
 ^https?:\/\/images\.pinduoduo\.com\/marketing_api\/\w+\.(png|gif|mp4) - reject
@@ -69,7 +69,7 @@ https:\/\/appconf\.mail\.163\.com\/mmad\/get\.do - reject
 https://support.you.163.com/appversync/check.do - reject
 ^https?+:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json - reject
 ^https?:\/\/yanxuan.nosdn.127.net\/(static-union\/)?.*\.gif - reject
-https:\/\/yanxuan.nosdn.127.net\/.*\.mp4 - reject-dict
+https:\/\/yanxuan.nosdn.127.net\/.*\.mp4 - reject-200
 
 # > 06 携程 m.ctrip.com, ma-adx.ctrip.com, mbd.baidu.com
 ^https:\/\/ma-adx\.ctrip\.com\/_ma\.gif - reject
