@@ -1,5 +1,8 @@
-# 插件地址：https://github.com/Peng-YM/Loon
-# name=人人视频
+#!name=人人视频
+#!desc=解锁人人视频
+#!author=Peng-YM
+#!homepage = https://github.com/Peng-YM/Loon
+#!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/rrtv.png
 
 [Rule]
 URL-REGEX,^https?:\/\/api\.rr\.tv\/(?:ad\/getAll$|storage/business/rootName/app/homePage),REJECT
