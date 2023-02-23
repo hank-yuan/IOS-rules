@@ -1,4 +1,8 @@
-#解锁百度云盘会员
+#!name=解锁百度云盘会员
+#!desc=解锁百度云盘会员、页面优化、网页下载
+#!author=NobyDa
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/80px/BaiduNetDisk.png
+
 [URL Rewrite]
 # 百度云盘网页下载
 ^https?:\/\/pan\.baidu\.com\/s\/(.+) alook://pan.baiduwp.com/s/$1 302
