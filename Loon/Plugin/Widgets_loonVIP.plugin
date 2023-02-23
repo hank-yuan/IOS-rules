@@ -1,5 +1,10 @@
+#!name=万用小组件
+#!desc=Top Widgets万用小组件恢复会员
+#!author=ioshkj
+#!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/TopWidgets.png
+
 [Script]
-http-response ^https:\/\/top-widgets-api\.xiaozujian\.com\/api\/app\/config\/userConfig requires-body=1, script-path=https://gitlab.com/ioshkj/quantumultx/-/raw/main/vipjs/widgets.js, tag=万能小组件恢复永久会员
+http-response ^https:\/\/top-widgets-api\.xiaozujian\.com\/api\/app\/config\/userConfig requires-body=1, script-path=https://gitlab.com/ioshkj/quantumultx/-/raw/main/vipjs/widgets.js
 
 [MITM]
 hostname = top-widgets-api.xiaozujian.com
