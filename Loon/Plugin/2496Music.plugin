@@ -4,7 +4,7 @@
 #!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/2496.png
 
 [Script]
-http-response ^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ requires-body=1, script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/2496.js, tag=2496
+http-response ^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ requires-body=1, script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/2496.js
 
 [MITM]
 hostname = api_2496.kuwo.cn
