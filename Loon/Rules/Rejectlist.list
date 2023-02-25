@@ -5,10 +5,6 @@ domain, hub5idx.v6.shub.sandai.net
 domain, hub5emu.v6.shub.sandai.net
 domain, hub5btmain.v6.shub.sandai.net
 
-# 广告公司
-domain-suffix, applvn.com
-domain-suffix, applovin.com
-
 # backchina去广告
 domain-suffix, taboola.com
 
@@ -27,7 +23,6 @@ domain, ads.nicovideo.jp
 domain-suffix,applovin.com
 domain-suffix,applvn.com
 domain-suffix, doubleclick.net
-ip-cidr, 203.107.63.154/32
 
 # > 多多视频去开屏广告
 domain-suffix, bayescom.com
