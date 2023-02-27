@@ -550,3 +550,10 @@ payload:
   - DOMAIN,sf6-ttcdn-tos.pstatp.com
   # > 知到
   - DOMAIN,app-advertise.zhihuishu.com
+   # > 自定义
+  - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+  
