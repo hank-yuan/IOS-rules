@@ -15,6 +15,7 @@ host-suffix,rfi.fr,Outside
 host-suffix,reuters.com,Outside
 host-suffix,worldjoural.com,Outside
 host-suffix,wikiwand.com,Outside
+host,sub.id9.cc,Outside
 # > 其它
 host-suffix,xvideos.com,Outside
 host-suffix,v2raytech.com,Outside
