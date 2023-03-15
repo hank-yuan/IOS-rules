@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,v2raytech.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,bridges.torproject.org
+  - DOMAIN-SUFFIX,sub.id9.cc
   # > News
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,dwnews.com
