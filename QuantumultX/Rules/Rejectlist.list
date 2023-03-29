@@ -28,5 +28,3 @@ host-suffix, doubleclick.net, reject
 # > 多多视频去开屏广告
 host-suffix, bayescom.com, reject
 
-# > 高德
-host, amdc.m.taobao.com, reject
