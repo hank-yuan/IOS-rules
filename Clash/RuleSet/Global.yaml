@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,sub.id9.cc
   # > News
   - DOMAIN-SUFFIX,backchina.com
+  - DOMAIN-SUFFIX,wenxuecity.com
   - DOMAIN-SUFFIX,dwnews.com
   - DOMAIN-SUFFIX,voachinaese.com
   - DOMAIN-SUFFIX,bbc.com
