@@ -2,6 +2,8 @@
 domain-suffix,washingtonpost.com
 # > 华尔街日报
 domain-suffix,wsj.com
+# > 经济学人
+domain-suffix,economist.com
 # > News
 domain-suffix,backchina.com
 domain-suffix,dwnews.com
