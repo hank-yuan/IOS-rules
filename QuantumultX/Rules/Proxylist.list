@@ -2,6 +2,8 @@
 host-suffix,washingtonpost.com,Outside
 # > 华尔街日报
 host-suffix,wsj.com,Outside
+# > 经济学人
+host-suffix,economist.com,Outside
 # > News
 host-suffix,backchina.com,Outside
 host-suffix,dwnews.com,Outside
@@ -15,7 +17,6 @@ host-suffix,rfi.fr,Outside
 host-suffix,reuters.com,Outside
 host-suffix,worldjoural.com,Outside
 host-suffix,wikiwand.com,Outside
-host,sub.id9.cc,Outside
 # > 其它
 host-suffix,xvideos.com,Outside
 host-suffix,v2raytech.com,Outside
