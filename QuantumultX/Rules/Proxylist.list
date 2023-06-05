@@ -4,6 +4,8 @@ host-suffix,washingtonpost.com,Outside
 host-suffix,wsj.com,Outside
 # > 经济学人
 host-suffix,economist.com,Outside
+# > 中天新闻网
+host-suffix,ctinews.com,Outside
 # > News
 host-suffix,backchina.com,Outside
 host-suffix,dwnews.com,Outside
