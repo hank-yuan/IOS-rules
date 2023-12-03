@@ -27,3 +27,4 @@ domain-suffix,netlify.app
 domain-suffix,jkl-sub.com
 # > 加密货币补充
 domain-suffix,ouyi.fit
+domail-suffix,vercel.app
