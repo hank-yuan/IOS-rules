@@ -31,3 +31,4 @@ host-suffix,vultr.com,Outside
 host-suffix,dsxys.com,Outside
 # > 加密货币补充
 host-suffix,ouyi.fit,Cryptocurrency
+host-suffix,vercel.app,Outside
