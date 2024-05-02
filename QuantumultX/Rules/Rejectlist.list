@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,applvn.com,REJECT
 host-suffix, doubleclick.net, reject
 
 # > 小熊
-host-suffix, https://api-access.pangolin-sdk-toutiao.com, reject
+host-suffix, api-access.pangolin-sdk-toutiao.com, reject
 
 
 # > 高德
