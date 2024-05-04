@@ -20,8 +20,11 @@ domain-suffix,applovin.com
 domain-suffix,applvn.com
 domain-suffix, doubleclick.net
 
-# > 多多视频去开屏广告
-domain-suffix, bayescom.com
+# > 小熊
+domain-suffix, pangolin-sdk-toutiao.com
+domain-suffix, pangolin-sdk-toutiao1.com
+domain-suffix, pglstatp-toutiao.com
+domain-suffix, pglstatp-toutiao.com
 
 # > 高德
 domain, amdc.m.taobao.com
