@@ -8,6 +8,9 @@ host, hub5btmain.v6.shub.sandai.net, reject
 
 # > backchina去广告
 DOMAIN-SUFFIX, taboola.com, reject
+DOMAIN-SUFFIX, id.hadron.ad.gt, reject
+DOMAIN-SUFFIX, ad.gt, reject
+DOMAIN-SUFFIX, ad.doubleclick.net, reject
 
 # > 真不卡
 DOMAIN-SUFFIX, ttayy.cn, reject
