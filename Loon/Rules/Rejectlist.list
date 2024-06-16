@@ -7,6 +7,9 @@ domain, hub5btmain.v6.shub.sandai.net
 
 # backchina去广告
 domain-suffix, taboola.com
+domain-suffix, id.hadron.ad.gt
+domain-suffix, ad.gt
+domain-suffix, ad.doubleclick.net
 
 # > 真不卡
 domain-suffix, ttayy.cn
