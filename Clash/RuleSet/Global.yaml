@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,bridges.torproject.org
   - DOMAIN-SUFFIX,sub.id9.cc
+  - DOMAIN-KEYWORD,sanfen
+  - DOMAIN-KEYWORD,vtwoc
   # > News
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,wenxuecity.com
