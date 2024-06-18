@@ -27,9 +27,12 @@ host-suffix,jinkela.bar,Outside
 host-suffix,jinkela.app,Outside
 host-suffix,netlify.app,Outside
 host-suffix,vultr.com,Outside
-# 大师兄影视
+# >大师兄影视
 host-suffix,dsxys.com,Outside
 # > 加密货币补充
 host-suffix,ouyi.fit,Cryptocurrency
 host-suffix,vercel.app,Outside
 host-suffix,4spaces.org,Outside
+# >机场
+host-keyword,sanfen,Outside
+host-keyword,vtwoc,Outside
