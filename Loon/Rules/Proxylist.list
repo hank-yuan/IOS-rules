@@ -28,3 +28,6 @@ domain-suffix,jkl-sub.com
 # > 加密货币补充
 domain-suffix,ouyi.fit
 domail-suffix,vercel.app
+# > 机场
+domain-keyword,sanfen
+domain-keyword,vtwoc
