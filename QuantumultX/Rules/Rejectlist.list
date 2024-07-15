@@ -28,7 +28,6 @@ host-suffix, doubleclick.net, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao1.com, reject
 host-suffix, pglstatp-toutiao.com, reject
-host-suffix, pglstatp-toutiao.com, reject
 
 # > 高德
 host-suffix, amdc.m.taobao.com, reject
