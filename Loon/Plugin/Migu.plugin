@@ -1,0 +1,17 @@
+#!name=咪咕视频
+#!desc=解锁咪咕视频会员
+#!author=hank-yuan
+#!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/ITV.png
+
+[Rewrite]
+# > 开屏广告
+^https://.*miguvideo\.com/request/sdk - reject-img
+^https://common-sc\.miguvideo\.com/task/v7/task-list/cmvideo/visitor - reject-img
+
+[Script]
+# > 咪咕视频Vip会员
+http-request ^https?:\/\/(play|dis).*miguvideo.com\/(play|dis)(url|play)\/.*$ requires-body=1, script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/mgsp.js
+http-request ^https?:\/\/play.miguvideo.com\/playurl\/v1\/play\/playurl\?2Kvivid=true?.*=true$ requires-body=1, script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/mgspck.js
+
+[MITM]
+hostname = *.miguvideo.com
