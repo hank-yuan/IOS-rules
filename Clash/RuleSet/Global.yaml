@@ -20,6 +20,7 @@ payload:
   - DOMAIN-KEYWORD,sanfen
   - DOMAIN-KEYWORD,vtwoc
   - DOMAIN-SUFFIX,flexclip.com
+  - DOMAIN-SUFFIX,formulabot.com
   # > News
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,wenxuecity.com
