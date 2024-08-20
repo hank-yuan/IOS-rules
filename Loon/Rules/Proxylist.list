@@ -4,6 +4,8 @@ domain-suffix,washingtonpost.com
 domain-suffix,wsj.com
 # > 经济学人
 domain-suffix,economist.com
+# > 中天新闻网
+domain-suffix,ctinews.com
 # > News
 domain-suffix,backchina.com
 domain-suffix,dwnews.com
@@ -17,17 +19,24 @@ domain-suffix,rfi.fr
 domain-suffix,reuters.com
 domain-suffix,,worldjoural.com
 domain-suffix,wikiwand.com
-# > 其它
-domain-suffix,vultr.com
-domain-suffix,xvideos.com
-domain-suffix,v2raytech.com
-domain-suffix,jinkela.wtf
-domain-suffix,jinkela.bar
-domain-suffix,netlify.app
-domain-suffix,jkl-sub.com
+# > 大师兄影视
+domain-suffix,dsxys.com
 # > 加密货币补充
 domain-suffix,ouyi.fit
 domail-suffix,vercel.app
 # > 机场
 domain-keyword,sanfen
 domain-keyword,vtwoc
+domain-suffix,jinkela.wtf
+domain-suffix,jinkela.bar
+domain-suffix,jinkela.app
+domain-suffix,jkl-sub.com
+# > Vogue Runway
+domain-keyword,voguerunway
+domain-suffix,vogue.com
+# > 其它
+domain-suffix,xvideos.com
+domain-suffix,v2raytech.com
+domain-suffix,netlify.app
+domain-suffix,vultr.com
+domain-suffix,4spaces.org
