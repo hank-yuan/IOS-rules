@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,sub.id9.cc
   - DOMAIN-KEYWORD,sanfen
   - DOMAIN-KEYWORD,vtwoc
+  - DOMAIN-SUFFIX,flexclip.com
   # > News
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,wenxuecity.com
