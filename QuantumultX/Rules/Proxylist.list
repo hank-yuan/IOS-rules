@@ -19,20 +19,24 @@ host-suffix,rfi.fr,Outside
 host-suffix,reuters.com,Outside
 host-suffix,worldjoural.com,Outside
 host-suffix,wikiwand.com,Outside
-# > 其它
-host-suffix,xvideos.com,Outside
-host-suffix,v2raytech.com,Outside
-host-suffix,jinkela.wtf,Outside
-host-suffix,jinkela.bar,Outside
-host-suffix,jinkela.app,Outside
-host-suffix,netlify.app,Outside
-host-suffix,vultr.com,Outside
-# >大师兄影视
+# > 大师兄影视
 host-suffix,dsxys.com,Outside
 # > 加密货币补充
 host-suffix,ouyi.fit,Cryptocurrency
 host-suffix,vercel.app,Outside
-host-suffix,4spaces.org,Outside
 # >机场
 host-keyword,sanfen,Outside
 host-keyword,vtwoc,Outside
+host-suffix,jinkela.wtf,Outside
+host-suffix,jinkela.bar,Outside
+host-suffix,jinkela.app,Outside
+host-suffix,jkl-sub.com,Outside
+# > Vogue Runway
+host-keyword,viguerunway,Outside
+host-keyword,vogue.com,Outside
+# > 其它
+host-suffix,xvideos.com,Outside
+host-suffix,v2raytech.com,Outside
+host-suffix,netlify.app,Outside
+host-suffix,vultr.com,Outside
+host-suffix,4spaces.org,Outside
