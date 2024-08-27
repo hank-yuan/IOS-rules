@@ -2,12 +2,12 @@
 // @name            Bypass Paywalls Clean - en
 // @version         3.6.3.2
 // @description     Bypass Paywalls of news sites
-// @author          magnolia1234
-// @downloadURL     https://github.com/bpc-clone/bypass-paywalls-clean-filters/raw/main/userscript/bpc.en.user.js
-// @updateURL       https://github.com/bpc-clone/bypass-paywalls-clean-filters/raw/main/userscript/bpc.en.user.js
-// @homepageURL     https://github.com/bpc-clone/bypass-paywalls-clean-filters
-// @supportURL      https://github.com/bpc-clone/bypass-paywalls-clean-filters
-// @license         MIT; https://github.com/bpc-clone/bypass-paywalls-clean-filters/blob/main/LICENSE
+// @author          github
+// @downloadURL     https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/bpc.en.user.js
+// @updateURL       https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/bpc.en.user.js
+// @homepageURL     https://github.com/hank-yuan
+// @supportURL      https://github.com/hank-yuan
+// @license         github
 // @match           *://*.com/*
 // @match           *://*.co.uk/*
 // @match           *://*.com.au/*
