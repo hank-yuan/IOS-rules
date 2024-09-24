@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,vtwoc
   - DOMAIN-SUFFIX,flexclip.com
   - DOMAIN-SUFFIX,formulabot.com
+  - DOMAIN-SUFFIX,singlelogin.re
   # > News
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,wenxuecity.com
