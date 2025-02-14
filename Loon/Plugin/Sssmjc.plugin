@@ -1,0 +1,10 @@
+#!name=时尚素描教程
+#!desc=解锁时尚素描教程自建
+#!author=hank-yuan
+#!icon=https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/IconSet/Discovery.png
+
+[Script]
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1, script-path=https://raw.githubusercontent.com/hank-yuan/IOS-rules/refs/heads/master/UserScripts/sssmjc.js
+
+[MITM]
+hostname = buy.itunes.apple.com
