@@ -1,7 +1,7 @@
 /*
 [rewrite_local]
 
-^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ url script-response-body https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/UserScripts/2496.js
+^http?:\/\/api\_\d{4}\.kuwo\.cn\/front\/user\/vipstatus$ url script-response-body https://raw.githubusercontent.com/hank-yuan/IOS-rules/master/QuantumultX/Scripts/2496music.js
 
 [mitm]
 
