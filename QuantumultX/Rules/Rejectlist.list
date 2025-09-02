@@ -31,3 +31,6 @@ host-suffix, pglstatp-toutiao.com, reject
 
 # > 高德
 host-suffix, amdc.m.taobao.com, reject
+
+# > 闲鱼
+host-suffix, iyes.youku.com, reject
